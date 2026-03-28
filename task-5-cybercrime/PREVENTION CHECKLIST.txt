@@ -1,0 +1,18 @@
+PREVENTION CHECKLIST:
+
+
+DO:
+- Use strong passwords
+- Enable two-factor authentication
+- Verify website URLs before entering details
+- Use secure networks
+- Keep apps updated
+
+DON’T:
+- Do not click unknown links
+- Do not share OTP or bank details
+- Do not use public Wi-Fi for payments
+- Do not download unknown files
+
+Report cybercrime: https://cybercrime.gov.in
+Helpline: 1930
